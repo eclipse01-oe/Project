@@ -1,6 +1,6 @@
- button{
+ #About button{
     font-size: 20px;
-    background-color: cyan;
+    background-color:dodgerblue ; 
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
