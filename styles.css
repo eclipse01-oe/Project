@@ -2,7 +2,7 @@
 
  }
  
- button{
+ #signupbtn #loginbtn{
     font-size: 20px;
     background-color:dodgerblue ; 
     display: flex;
