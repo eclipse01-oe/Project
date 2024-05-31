@@ -3,5 +3,5 @@
     flex-wrap:wrap;
     background-color: cyan  ;
     size: 200px;
-    
+    flex-direction:row;
 }
