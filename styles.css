@@ -3,5 +3,8 @@
     background-color: cyan;
     display: flex;
     flex-wrap: wrap;
-    flex-direction: rowm;
+    flex-direction: row;
+    border: 0px;
+    position: relative;
+    padding: 10px;
  }
