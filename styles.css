@@ -1,4 +1,6 @@
- button{
+ #About button{
     size: 50px;
     background-color: cyan;
-}
+    display: flex;
+    flex-wrap: wrap;
+ }
