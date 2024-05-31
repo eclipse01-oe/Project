@@ -3,4 +3,5 @@
     background-color: cyan;
     display: flex;
     flex-wrap: wrap;
+    flex-direction: rowm;
  }
