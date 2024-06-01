@@ -3,7 +3,7 @@
  .navbar .icon {
   display: none;
  }
- h1 {
+ span {
   display: inline-block;
   text-align: center;
  }
@@ -14,7 +14,7 @@
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    position: relative;
+ span
     margin: 15px;
     margin-top: 0px;
     border-radius: 8px;
