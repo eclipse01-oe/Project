@@ -28,7 +28,7 @@
 
 
 
- @media screen and (max-width 800px) {
+ @media screen and (max-width: 800px) {
   .navbar:not(h1) {display: none;}
   .navbar a .icon {
     float: left;
