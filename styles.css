@@ -1,14 +1,4 @@
- #mynavbar {}
-
- .navbar .icon {
-  display: none;
- }
- span {
-  display: inline-block;
-  text-align: center;
- }
- 
- button {
+button {
     font-size: 30px;
     background-color:dodgerblue ; 
     display: flex;
@@ -25,11 +15,3 @@
  }
 
 
-
- @media screen and (max-width: 800px) {
-  .navbar:not(span) {display: none;}
-  .navbar a .icon {
-    float: right;
-    display: block;
-  }
- }
