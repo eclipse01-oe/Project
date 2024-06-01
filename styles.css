@@ -29,7 +29,7 @@
 
 
  @media screen and (max-width: 800px) {
-  .navbar:not(h1) {display: none;}
+  .navbar:not(span) {display: none;}
   .navbar a .icon {
     float: right;
     display: block;
