@@ -1,5 +1,11 @@
- #mynavbar {
+ #mynavbar {}
 
+ .navbar .icon {
+  display: none;
+ }
+ h1 {
+  display: inline-block;
+  text-align: center;
  }
  
  button {
@@ -17,4 +23,15 @@
 
  button:hover {
    background-color: azure ;
+ }
+
+
+
+
+ @media screen and (max-width 800px) {
+  .navbar:not(h1) {display: none;}
+  .navbar a .icon {
+    float: left;
+    display: block;
+  }
  }
