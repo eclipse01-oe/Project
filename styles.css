@@ -2,8 +2,6 @@ button {
     font-size: 30px;
     background-color:dodgerblue ; 
     display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
     margin: 15px;
     margin-top: 0px;
     border-radius: 8px;
