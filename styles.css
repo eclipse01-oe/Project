@@ -12,10 +12,15 @@ button {
    background-color: azure ;
  }
 
+ #About {
+  padding: 20px;
+  margin: 20px;
+ }
+
  #carouselExampleIndicators {
   text-align: center;
-  padding: 50px;
-  margin: 50px;
+  padding: 20px;
+  margin: 20px;
  }
 
  
