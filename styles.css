@@ -12,7 +12,7 @@ button {
  }
 
  #Home {
-  background-image: image-set(eclipse01-oe/Project/home.jpeg);
+  background-image: url(eclipse01-oe/Project/home.jpeg);
  }
 
  #About {
