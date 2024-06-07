@@ -12,3 +12,8 @@ button {
    background-color: azure ;
  }
 
+ #carouselExampleIndicators {
+  text-align: center;
+  padding: 50px;
+ }
+
