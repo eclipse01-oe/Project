@@ -11,6 +11,10 @@ button {
    background-color: azure ;
  }
 
+ #Home {
+  background-image: image-set(eclipse01-oe/Project/home.jpeg);
+ }
+
  #About {
   padding: 20px;
   margin: 20px;
