@@ -4,6 +4,7 @@ button {
     margin: 0px 15px 15px 8px;
     border-radius: 8px;
     float:left;
+    position: static;
  }
 
  button:hover {
