@@ -22,8 +22,7 @@ button {
  #About {
   padding: 20px;
   margin: 20px;
-  text-align: center;
-  background-image: url(home.jpeg); 
+  text-align: center; 
  }
 
  #aboutCon {
@@ -36,11 +35,3 @@ button {
   padding: 20px;
   margin: 20px;
  }
-
- .About-img{
-  width: 10%;
- }
-
-.whatWeOffer-img{
-  width: 10%;
-}
