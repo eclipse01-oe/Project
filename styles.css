@@ -1,5 +1,7 @@
 #header-img {
   object-fit: contain;
+  width: fit-content;
+  height: fit-content;
 }
 
 #Home h1{
