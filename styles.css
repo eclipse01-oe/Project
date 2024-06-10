@@ -18,6 +18,8 @@ button {
     background-color:dodgerblue ;
     float:left;
     border-radius: 9px;
+    padding: 10px;
+    margin: 10px;
  }
 
  button:hover {
