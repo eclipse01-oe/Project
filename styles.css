@@ -27,6 +27,7 @@
    background-color:dodgerblue ;
    float:left;
    position: absolute;
+   right: 20%;
    transform: translate(20 80);
    border-radius: 9px;
  }
