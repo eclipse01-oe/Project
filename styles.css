@@ -27,10 +27,6 @@ button {
  }
 
  #Home {
-  position: relative;
- }
-
- #Home ::after{
   position: absolute;
   background-image: url(home.jpeg);
   background-size: cover;
