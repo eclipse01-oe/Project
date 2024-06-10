@@ -16,10 +16,10 @@
 button {
     font-size: 30px;
     background-color:dodgerblue ;
-    margin: 15px auto 15px auto;
-    border-radius: 8px;
     float:left;
-    position: static;
+    position: absolute;
+    top: 80%;
+    left: 50%;
  }
 
  button:hover {
