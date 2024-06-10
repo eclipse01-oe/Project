@@ -16,7 +16,7 @@
 button {
     font-size: 30px;
     background-color:dodgerblue ;
-    margin: 0px 15px 15px 8px;
+    margin: 15px auto 15px auto;
     border-radius: 8px;
     float:left;
     position: static;
@@ -26,13 +26,20 @@ button {
    background-color: azure ;
  }
 
- #Home {
+ #Home::after {
   background-image: url(home.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
   height: 350px;
+  opacity: 0.5;
+  background-color: rgba(0 0 0 0.5);
+  position: absolute;
+  z-index: -1;
+ }
 
+ #Home {
+  position: relative;
  }
 
  #About {
