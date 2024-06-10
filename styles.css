@@ -28,7 +28,7 @@
    background-color:dodgerblue ;
    float:left;
    position: absolute;
-   transform: translate(-55 80);
+   transform: translate(-53 80);
  }
 
  button:hover {
