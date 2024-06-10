@@ -13,13 +13,22 @@
   font-family: 'Courier New', Courier, monospace;
 }
 
-button {
+#signupbtn {
     font-size: 30px;
     background-color:dodgerblue ;
     float:left;
     position: absolute;
     top: 80%;
     left: 50%;
+ }
+
+ #loginbtn  {
+   font-size: 30px;
+   background-color:dodgerblue ;
+   float:left;
+   position: absolute;
+   top: 80%;
+   left: 55%;
  }
 
  button:hover {
