@@ -27,7 +27,6 @@ button {
  }
 
  #Home {
-  position: absolute;
   background-image: url(home.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
