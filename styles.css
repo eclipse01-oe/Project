@@ -36,6 +36,7 @@
  }
 
  #Home::after {
+  content:"";
   background-image: url(home.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
