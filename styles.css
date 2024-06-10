@@ -19,8 +19,7 @@
     float:left;
     position: absolute;
     transform: translate(-50 80);
-
-    
+    border-radius: 9px;
  }
 
  #loginbtn  {
@@ -29,6 +28,7 @@
    float:left;
    position: absolute;
    transform: translate(-53 80);
+   border-radius: 9px;
  }
 
  button:hover {
