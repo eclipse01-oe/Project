@@ -19,7 +19,7 @@
   font-family: 'Courier New', Courier, monospace;
 }
 
-button {
+.btn {
     font-size: 20px;
     background-color:dodgerblue ;
     float:left;
@@ -28,10 +28,10 @@ button {
     margin: 10px;
  }
 
- button:hover {
+ .btn:hover {
    background-color: azure ;
  }
-
+ 
  #Home::before {
   opacity: 0;
   text-align: center;
