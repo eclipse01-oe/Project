@@ -24,7 +24,7 @@ button {
    background-color: azure ;
  }
 
- #Home{
+ #Home ::after{
   background-image: url(home.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
