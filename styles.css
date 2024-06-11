@@ -46,9 +46,10 @@
  }
  
  .col-container {
-  background-color: #00bfff;
+  background-color:  #666699;
   margin: 5px;
   border: 2px solid;
+  border-color:#00bfff;
   border-radius: 10px;
  }
 
