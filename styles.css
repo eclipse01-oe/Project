@@ -19,12 +19,9 @@
   font-family: 'Courier New', Courier, monospace;
 }
 
-btn {
-    font-size: 20px;
-    float:left;
-    padding: 10px;
-    margin: 10px;
- }
+.offcanvas-custom-width {
+  --bs-offcanvas-width: 250px;
+}
 
  .btn:hover {
    background-color: aqua 
