@@ -27,7 +27,8 @@ btn {
  }
 
  .btn:hover {
-   background-color: azure ;
+   background-color: aqua 
+    ;
  }
  
  #Home::before {
