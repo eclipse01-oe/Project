@@ -46,8 +46,11 @@
  }
 
  .container-fluid {
-  margin-top: 100px;
-  padding-top: 100px;
+  background-color: #00bfff;
+  margin-top: 10px;
+  padding-top: 10px;
+  border: 10px solid;
+  border-radius: 10px;
  }
 
  #carouselExampleIndicators {
