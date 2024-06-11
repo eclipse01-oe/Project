@@ -45,7 +45,9 @@
   border: 2px solid;
   border-color:#00bfff;
   border-radius: 15px;
- }
+  width: auto;
+  height: 300px;
+ } 
 
  #carouselExampleIndicators {
   text-align: center;
