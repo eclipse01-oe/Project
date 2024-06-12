@@ -1,6 +1,6 @@
 body {
   background-color:black;
-}
+  color: white;} 
 
 #Header{
     background-image: url(home.jpeg)
@@ -21,7 +21,6 @@ body {
   font-size: 60px;
   font-weight: 900;
   padding: 10px;
-  color: white;   
   font-family: 'Consolas', monospace;
 }
 
@@ -62,10 +61,6 @@ body {
     margin: 15px;
     color: #00bfff;
   }
-
- #startNow a {
-  color: white;
- }
 
   #startNow a:hover {
     color: aqua;
