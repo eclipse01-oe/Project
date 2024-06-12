@@ -41,12 +41,14 @@
   text-align: center;
  }
 
- .col-container {
+ #aboutCon {
   background-color:  #f8f8ff;
   border: 2px solid;
   border-color:#00bfff;
   border-radius: 15px;
   height: 370px;
+  width: 300px;
+  flex:100%;
  } 
 
  #carouselExampleIndicators {
@@ -58,4 +60,12 @@
  h2 {
   padding: 10px;
   margin: 10px;
+ }
+
+
+
+/*media query section*/
+
+ @media (min-width: 800px) {
+
  }
