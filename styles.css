@@ -56,9 +56,9 @@
   padding: 15px;
   margin: 5px;
   height: 370px;
-  width: 200px;
+  width: 100px;
   flex:100%;
- }
+ } 
 
  #carouselExampleIndicators {
   text-align: center;
