@@ -55,8 +55,9 @@
   border-radius: 15px;
   padding: 15px;
   margin: 5px;
-  height: 400px;
+  height: 360px;
   width: 150px;
+  overflow: scroll;
   flex:100%;
  } 
 
