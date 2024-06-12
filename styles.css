@@ -29,16 +29,16 @@
    background-color: aqua 
     ;
  }
- 
- #Home::before {
-  opacity: 0;
-  text-align: center;
- }
 
  #Home {
   width: 100%;
   height: 360px;
   text-align: center;
+ }
+
+ p {
+  line-height: 50px;
+  box-sizing: border-box;
  }
 
 .flex-container {
