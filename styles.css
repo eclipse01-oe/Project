@@ -44,7 +44,7 @@
  #startNow {
   text-align: center;
   font-size: 20px;
-  font-family: monospace;
+  font-family: 'Monaco', monospace;
   font-weight: 800; 
   font-style: italic;
   padding: 20px;
@@ -85,7 +85,7 @@
  } 
 
  .flex-item p {
-  font-family: Bahnschrift, sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   font-weight: bold;
  }
 
