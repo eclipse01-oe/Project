@@ -18,7 +18,7 @@ body {
 
 #Home h1{
   line-height: 60px;
-  font-size: 40px;
+  font-size: 45px;
   font-weight: 800;
   padding: 10px;
   font-family: 'Consolas', monospace;
@@ -28,6 +28,7 @@ body {
 #Home p{
   line-height: 20px;
   font-size: 20px;
+  text-align: left;
 }
 
 .offcanvas-custom-width {
