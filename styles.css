@@ -53,6 +53,8 @@
 
  #startNow a {
   padding: 2px;
+  margin: 3px;
+  color: black;
  }
 
 .flex-container {
