@@ -79,7 +79,7 @@
  } 
 
  .flex-item p {
-  font-family: consolas, monospace;
+  font-family: 'consolas', monospace;
  }
 
  #carouselExampleIndicators {
