@@ -14,11 +14,11 @@
 
 #Home h1{
   line-height: 60px;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 900;
   padding: 10px;
   color: white;   
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Consolas', monospace;
 }
 
 .offcanvas-custom-width {
