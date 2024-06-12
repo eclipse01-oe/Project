@@ -1,3 +1,7 @@
+body {
+  background-color:black;
+}
+
 #Header{
     background-image: url(home.jpeg)
 }
@@ -60,7 +64,7 @@
   }
 
  #startNow a {
-  color: black; 
+  color: white;
  }
 
   #startNow a:hover {
