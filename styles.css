@@ -59,6 +59,7 @@
   width: 150px;
   overflow: scroll;
   flex:100%;
+  align-content: space-around;
  } 
 
  #carouselExampleIndicators {
