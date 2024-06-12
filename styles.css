@@ -81,7 +81,8 @@
  } 
 
  .flex-item p {
-  font-family: 'Bahnschrift', sans-serif bold;
+  font-family: Bahnschrift, sans-serif;
+  font-weight: bold;
  }
 
  #carouselExampleIndicators {
