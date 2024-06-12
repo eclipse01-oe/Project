@@ -44,7 +44,7 @@
  #startNow {
   text-align: center;
   font-size: 40px;
-  font-family: monospace Bold;
+  font-family: monospace;
   font-weight: 800; 
   font-style: italic;
   padding: 20px;
@@ -56,6 +56,10 @@
   margin: 3px;
   color: black;
  }
+
+  #startNow a:hover {
+    color: aqua;
+  }
 
 .flex-container {
   display: flex;
