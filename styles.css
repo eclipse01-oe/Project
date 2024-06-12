@@ -18,10 +18,11 @@ body {
 
 #Home h1{
   line-height: 60px;
-  font-size: 60px;
-  font-weight: 900;
+  font-size: 40px;
+  font-weight: 800;
   padding: 10px;
   font-family: 'Consolas', monospace;
+  text-align: left;
 }
 
 .offcanvas-custom-width {
