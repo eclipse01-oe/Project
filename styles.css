@@ -78,6 +78,10 @@
   box-shadow: 10px 10px 10px 3px #888888;
  } 
 
+ .flex-item p {
+  font-family: cursive;
+ }
+
  #carouselExampleIndicators {
   text-align: center;
   padding: 20px;
