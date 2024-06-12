@@ -91,8 +91,10 @@
  } 
 
  .flex-item p {
-  font-family: 'Bahnschrift', sans-serif;
+  font-family: 'monaco', monospace;
   font-weight: bold;
+  font-size: 20px;
+  line-height: 60px;
  }
 
  #carouselExampleIndicators {
@@ -106,7 +108,7 @@
   margin: 10px;
  }
 
-
+ 
 
 /*media query section*/
 
