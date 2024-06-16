@@ -98,14 +98,15 @@ body {
  .flex-item {
   background-color: #00bbf0;
   border-radius: 0;
-  padding: 10px;
+  padding: 5px;
   margin: 10px;
   overflow: scroll;
   flex:100%;
   align-content: space-around;
   box-shadow: 10px 10px 10px 3px #888888;
   width: 80px;
-  height: 500px; 
+  height: 500px;
+  gap: 15px 0;
  }
 
  .flex-item p{
