@@ -55,8 +55,8 @@
   align-content: space-around;
   text-align: center;
   line-height: 50px;
-  width: 80px;
-  height: 500px;
+  width: 500px;
+  height: 100px;
 }
 
  .flex-item {
