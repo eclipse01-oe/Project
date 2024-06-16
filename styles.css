@@ -162,11 +162,11 @@ body {
 
 #Home button {
   float: right;
-  top: 60px
+  top: 50px
 }
 
 #Home h1, #home p{
-  padding-right: 50px;
+  padding-right: 70px;
 }
 
 hr{
