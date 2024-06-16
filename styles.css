@@ -151,8 +151,8 @@ body {
  @media (min-width: 800px) {
 .flex-item, .no-div{
   flex: 40%;
-  flex-direction: row;
-  margin: 10px 10px;
+  flex-direction: row; 
+  margin: 20px 15px;
   width: 50%;
   height: 100%;
   align-items: center;
@@ -161,5 +161,9 @@ body {
 #Home button {
   float: right;
   top: 70px
+}
+
+#Home h1, #home p{
+  padding: 40%;
 }
  }
