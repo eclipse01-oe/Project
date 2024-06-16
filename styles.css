@@ -44,13 +44,13 @@
 
 #Home button {
   background-color: #00bbf0;
+  border-radius: 8px;
+  height: 60px;
+  width: 80px;
 }
 
  button:hover {
   background-color: aqua;  
-  border-radius: 8px;
-  height: 40px;
-  width: 20px;
  }
  
  #Home {
@@ -80,7 +80,7 @@
   flex:100%;
   align-content: space-around;
   box-shadow: 10px 10px 10px 3px #888888;
-  width: 80%;
+  width: 100px;
  } 
 
  .flex-item p {
