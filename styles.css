@@ -121,12 +121,14 @@ body {
   height: 5px;
   align-items: center;
   margin: auto;
+  padding: 10px;
  }
 
  .no-div {
   text-shadow: 2px 2px 2px gray;
   font-family: 'monaco', monospace;
-  font-size: 15px;
+  font-size: 18px;
+  line-height: 20px;
  }
 
 
