@@ -90,15 +90,14 @@ body {
   text-align: center;
   line-height: 50px;
   align-items: center;
-  padding: 20px 5%;
+  padding: 10pxpx 5%;
   margin: 5px;
 }
 
  .flex-item {
   background-color: #00bbf0;
   border-radius: 0;
-  padding: 5px;
-  margin: 10px;
+  margin: 15px;
   overflow: scroll;
   flex:100%;
   align-content: space-around;
@@ -116,14 +115,14 @@ body {
 img {
   object-fit: contain;
   width: 65px;
-  height: 75px;
+  height: 80px;
   padding-bottom: 20px;
  }
 
  hr {
   box-shadow: 0 5px 5px grey;
   width: 40%;
-  height: 1.5px;
+  height: 1px;
   align-items: center;
   margin: auto;
   padding: 5px;
