@@ -53,6 +53,8 @@
   align-content: space-around;
   text-align: center;
   line-height: 50px;
+  width: 80px;
+  height: 500px;
 }
 
  .flex-item {
@@ -60,8 +62,6 @@
   border-radius: 15px;
   padding: 25px;
   margin: 10px;
-  height: 500px;
-  width: 80px;
   overflow: scroll;
   flex:100%;
   align-content: space-around;
