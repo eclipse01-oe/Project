@@ -117,17 +117,17 @@ body {
  hr {
   box-shadow: 0 5px 5px grey;
   width: 40%;
-  height: 5px;
+  height: 1.5px;
   align-items: center;
   margin: auto;
-  padding: 10px;
+  padding: 5px;
  }
 
  .no-div {
   text-shadow: 2px 2px 2px gray;
   font-family: 'monaco', monospace;
   font-size: 18px;
-  line-height: 20px;
+  line-height: 30px;
   padding: 15px;
  }
 
