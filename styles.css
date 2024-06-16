@@ -42,6 +42,10 @@
   --bs-offcanvas-width: 250px;
 }
 
+#Home button {
+  background-color: #00bbf0;
+}
+
  button:hover {
    background-color: aqua;
  }
