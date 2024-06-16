@@ -121,6 +121,10 @@ body {
   height: 5px;
  }
 
+ .no-div {
+  text-shadow: 2px 2px 2px gray;
+ }
+
  #About {
   padding-top: 5px;
  }
