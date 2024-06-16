@@ -61,8 +61,15 @@ body {
   height: 50px;
   width: 85px;
   position: absolute;
-  right: 10px;
   top: 60px;
+}
+
+#sign-up {
+  right: 5px
+}
+
+#login {
+  right: 93px;
 }
 
  button:hover {
