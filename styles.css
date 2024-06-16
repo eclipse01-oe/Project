@@ -92,7 +92,8 @@ body {
   text-align: center;
   line-height: 50px;
   align-items: center;
-  padding: 10px 5%;
+  padding: 20px 5%;
+  margin: 5px;
 }
 
  .flex-item {
