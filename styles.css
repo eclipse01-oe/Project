@@ -21,6 +21,7 @@
 
 #Home{
   padding: 0 0 5px 0;
+  position: relative;
 }
 
 #Home h1{
@@ -55,7 +56,8 @@
   border-radius: 8px;
   height: 50px;
   width: 85px;
-  align-items: end;
+  position: absolute;
+  left: 10px;
 }
 
  button:hover {
