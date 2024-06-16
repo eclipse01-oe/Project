@@ -91,6 +91,7 @@
   align-content: space-around;
   box-shadow: 10px 10px 10px 3px #888888;
   width: 95px;
+  height: 70px;
  } 
 
  .flex-item p {
