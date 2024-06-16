@@ -47,8 +47,8 @@ body {
   padding-top: 0;
   margin-left: 5px;
   text-align: left;
-  font-style: italic;
   font-family: 'Rubik', monospace;
+  font-weight: 200;
 }
 
 .offcanvas-custom-width {
@@ -107,9 +107,9 @@ body {
   box-shadow: 10px 10px 10px 3px #888888;
   width: 80px;
   height: 500px; 
- } 
+ }
 
- .flex-item p {
+ .flex-item p{
   font-family: 'monaco', monospace;
   font-size: 18px;
   line-height: 30px;
@@ -123,6 +123,8 @@ body {
 
  .no-div {
   text-shadow: 2px 2px 2px gray;
+  font-family: 'monaco', monospace;
+  font-size: 15px;
  }
 
  #About {
