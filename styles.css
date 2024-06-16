@@ -77,6 +77,10 @@
   line-height: 40px;
  }
 
+ #About {
+  padding-top: 5px;
+ }
+
  #carouselExampleIndicators {
   text-align: center;
   padding: 20px;
