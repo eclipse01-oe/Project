@@ -13,6 +13,11 @@
   margin-bottom: 10px;
 }
 
+#header {
+  padding-bottom: 5px;
+  margin-bottom: 0;
+}
+
 #Home h1{
   line-height: 50px;
   font-size: 40px;
