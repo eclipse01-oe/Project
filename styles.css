@@ -186,5 +186,10 @@ hr{
 
 #Home button {
   margin-right: 20px;
+  top: 140px;
+}
+
+#login {
+  margin-right: 125px;
 }
 }
