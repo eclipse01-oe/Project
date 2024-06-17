@@ -60,7 +60,7 @@ body {
   height: 40px;
   width: 85px;
   position: absolute;
-  top: 115px;
+  top: 120px;
 }
 
 #sign-up {
@@ -68,7 +68,7 @@ body {
 }
 
 #login {
-  right: 125px;
+  right: 122px;
 }
 
  button:hover {
@@ -181,5 +181,9 @@ img {
 
 hr{
   display: none;
+}
+
+#Home button {
+  padding-right: 20px;
 }
 }
