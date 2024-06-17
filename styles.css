@@ -60,7 +60,7 @@ body {
   height: 40px;
   width: 85px;
   position: absolute;
-  top: 120px;
+  top: 125px;
 }
 
 #sign-up {
@@ -68,7 +68,7 @@ body {
 }
 
 #login {
-  right: 115px;
+  right: 110px;
 }
 
  button:hover {
