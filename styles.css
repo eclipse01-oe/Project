@@ -153,6 +153,7 @@ img {
  .carousel-inner .carousel-item img {
   height: 100%;
   width: 80%;
+  object-fit: cover;
  }
 
  .carousel-control-prev, .carousel-control-next {
