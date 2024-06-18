@@ -146,6 +146,7 @@ img {
  #carouselExampleIndicators {
   text-align: center;
   padding: 20px;
+  margin-top: 5px;
   margin: 20px;
   height: 1000px !important; 
  }
@@ -199,4 +200,9 @@ hr{
 #login {
   margin-right: 80px;
 }
+
+ #carouselExampleIndicators {
+  height: 500px !important;
+  width: 50% !important;
+ }
 }
