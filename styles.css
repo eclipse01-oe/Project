@@ -203,6 +203,7 @@ hr{
 
  #carouselExampleIndicators {
   height: 500px !important;
-  width: 50% !important;
  }
+  .carousel-inner .carousel-item img {
+    width: 50%;
 }
