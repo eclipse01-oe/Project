@@ -164,6 +164,15 @@ img {
   padding: 8px;
  }
 
+ #contact {
+  background-color: #00bbf0;
+ }
+
+ #contact table {
+  width: 100%;
+  border: none;
+ }
+
 
 
 /*media query section*/
