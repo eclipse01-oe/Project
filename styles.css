@@ -155,7 +155,7 @@ body {
  
  .carousel-inner .carousel-item img {
   height: 300px;
-  width: 80%;
+  width: auto;
   object-fit: cover;
  }
 
