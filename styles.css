@@ -222,6 +222,10 @@ hr{
  #carouselExampleIndicators {
   height: 65vh !important;
  }
+
+ .carousel-inner {
+  height: 65vh;
+ }
   .carousel-inner .carousel-item img {
     width: 50%;
     height : 20%;
