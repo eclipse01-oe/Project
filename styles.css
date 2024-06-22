@@ -169,7 +169,8 @@ body {
  #contact {
   background-color: #00bbf0;
   text-align: left;
-  margin: 0;
+  margin: 10px 0 0 0;
+  align-items: center;
  }
 
  #contact table {
