@@ -166,6 +166,8 @@ img {
 
  #contact {
   background-color: #00bbf0;
+  text-align: left;
+  margin: 15px 0;
  }
 
  #contact table {
