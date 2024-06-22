@@ -220,7 +220,7 @@ hr{
 }
 
  #carouselExampleIndicators {
-  height: 78vh !important;
+  height: 78vh;
  }
 
  .carousel-inner {
