@@ -159,7 +159,7 @@ body {
   object-fit: cover;
  }
 
- .carousel-control-prev, .carousel-control-next .carousel-indicators {
+ .carousel-control-prev, .carousel-control-next, .carousel-indicators {
   display: none;
  }
 
