@@ -170,7 +170,7 @@ body {
  #contact {
   background-color: #00bbf0;
   text-align: left;
-  margin: 20px 0 0 0;
+  margin: 30px 0 0 0;
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
   display: block; 
@@ -230,7 +230,4 @@ hr{
     object-fit: contain;
 }
 
-#contact {
-margin: 30px 0 0 0;
- }
  }
