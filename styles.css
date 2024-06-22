@@ -172,6 +172,7 @@ body {
   margin: 20px 0 0 0;
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
+  display: block; 
  }
 
  #contact table {
@@ -197,7 +198,7 @@ body {
 
 #Home button {
   float: right;
-  top: 50px
+  top: 50px;
 }
 
 #Home h1, #home p{
