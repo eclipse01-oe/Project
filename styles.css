@@ -217,6 +217,5 @@ hr{
   .carousel-inner .carousel-item img {
     width: 50%;
     height : 20%;
-    object-fit: contain;
 }
  }
