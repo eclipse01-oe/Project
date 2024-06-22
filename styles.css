@@ -170,6 +170,8 @@ body {
   background-color: #00bbf0;
   text-align: left;
   margin: 20px 0 0 0;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
  }
 
  #contact table {
