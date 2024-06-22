@@ -145,7 +145,7 @@ body {
  }
 
 
- #carouselExampleIndicators {
+ #carouselExampleIndicators,  .carousel-inner {
   text-align: center;
   padding: 20px;
   margin: 0;
@@ -223,8 +223,6 @@ hr{
   height: 78vh;
  }
 
- .carousel-inner {
-  height: 78vh;
  }
   .carousel-inner .carousel-item img {
     object-fit: contain;
