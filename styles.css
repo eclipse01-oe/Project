@@ -220,14 +220,13 @@ hr{
 }
 
  #carouselExampleIndicators {
-  height: 65vh !important;
+  height: 78vh !important;
  }
 
  .carousel-inner {
-  height: 65vh;
+  height: 78vh;
  }
   .carousel-inner .carousel-item img {
-    width: 50%;
-    height : 20%;
+    object-fit: contain;
 }
  }
