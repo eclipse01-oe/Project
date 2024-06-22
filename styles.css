@@ -189,6 +189,7 @@ body {
 
  @media (min-width: 800px) {
 .flex-item, .no-div{
+  display: flex; 
   flex: 40%;
   flex-direction: row; 
   margin: 20px 15px;
