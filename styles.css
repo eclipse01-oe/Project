@@ -167,6 +167,12 @@ body {
   padding: 8px;
  }
 
+ .partner_img {
+  margin: 15px auto 0 auto;
+  padding: 10px auto 0 auto;
+  align-items: center;
+ }
+
  #contact {
   background-color: #00bbf0;
   text-align: left;
@@ -229,8 +235,10 @@ hr{
     padding-bottom: 50px;
 }
 
-.patner_img {
-  
+.partner_img {
+  margin: 20px auto 0 auto;
+  padding: 10px auto 0 auto;
+  align-items: center;
 }
 
  }
