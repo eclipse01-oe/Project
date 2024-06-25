@@ -237,10 +237,10 @@ hr{
   height: 78vh;
  }
 
-  .carousel-inner .carousel-item {
-    object-fit: contain;
-    margin-bottom: 50px;
-    padding-bottom: 50px;
+.carousel-inner .carousel-item {
+  object-fit: contain;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
 }
 
 .partner_img {
