@@ -170,13 +170,16 @@ body {
  .partner_img {
   margin: 15px auto 0 auto;
   align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
  }
 
  .partner_img img {
-  height: 75%;
-  width: 500px;
-  right: 20px;
-  top: 60px;
+  height: auto;
+  width: auto;
+  padding: auto;
  }
 
  #contact {
@@ -245,9 +248,5 @@ hr{
   margin: 20px auto 0 auto;
   padding: 10px auto 0 auto;
   align-items: center;
-}
-
-.partner_img img {
-  padding: 100px 100px auto 100px;
 }
  }
