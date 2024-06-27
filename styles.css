@@ -168,13 +168,11 @@ body {
  }
 
  .partner_img {
-  position: relative;
   margin: 15px auto 0 auto;
   align-items: center;
  }
 
  .partner_img img {
-  position: absolute;
   height: 75%;
   width: 500px;
   right: 20px;
