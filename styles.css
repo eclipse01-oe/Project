@@ -248,8 +248,9 @@ hr{
 
 .partner_img {
   margin: 20px auto 0 auto;
-  padding: 10px auto 0 auto;
-  align-items: center;
+}
+.partner_img img {
   width: 200px;
+  padding-top: 100px;
 }
  }
