@@ -199,7 +199,13 @@ body {
   margin: 0;
  }
 
- 
+ #contact table tbody td a, #contactGmail {
+  text-decoration: none;
+  list-style: none;
+  gap: 15px;
+  padding: 10px;
+  font-family: 'Rubik', monospace;
+ }
 
 
 /*media query section*/
