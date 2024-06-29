@@ -192,10 +192,10 @@ body {
   display: block; 
  }
 
- #contact table, #contactGmail {
+ #contact table thead, #contactGmail h4 {
   width: 100%;
   border: none;
-  padding: 15px;
+  padding: 10px;
   margin: 0;
  }
 
