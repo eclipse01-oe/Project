@@ -192,22 +192,22 @@ body {
   display: block; 
  }
 
- #contact table thead, #contactGmail h4 {
+ #contact h4, #contactGmail h4 {
   width: 100%;
   border: none;
   padding: 10px;
-  margin: 0;
+  margin: 0; 
  }
 
 
- #contact table tbody td a, #contactGmail a {
+ #contact ul li a, #contactGmail a {
   text-decoration: none;
   list-style: none;
   gap: 15px;
   padding: 5px;
   font-family: 'Rubik', monospace;
  }
-
+ 
 
 /*media query section*/
 
