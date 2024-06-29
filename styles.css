@@ -199,11 +199,16 @@ body {
   margin: 0;
  }
 
+ #contactGmail h4, #contact thead h4 {
+  padding: 10px;
+  
+ }
+
  #contact table tbody td a, #contactGmail {
   text-decoration: none;
   list-style: none;
   gap: 15px;
-  padding: 10px;
+  padding: 5px;
   font-family: 'Rubik', monospace;
  }
 
