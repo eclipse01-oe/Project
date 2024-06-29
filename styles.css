@@ -203,7 +203,7 @@ body {
   padding: 10px;
  }
 
- #contact table tbody td a, #contactGmail {
+ #contact table tbody td a, #contactGmail a {
   text-decoration: none;
   list-style: none;
   gap: 15px;
