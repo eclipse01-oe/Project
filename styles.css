@@ -205,7 +205,6 @@ body {
 
  #contact ul li a, #contactGmail a {
   text-decoration: none;
-  gap: 15px; 
   padding-left: 10px;
   font-family: 'Rubik', monospace;
  }
