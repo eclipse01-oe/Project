@@ -199,10 +199,12 @@ body {
   margin: 0; 
  }
 
+ #contact ul li {
+  list-style: none;
+ }
 
  #contact ul li a, #contactGmail a {
   text-decoration: none;
-  list-style: none;
   gap: 15px;
   padding: 5px;
   font-family: 'Rubik', monospace;
