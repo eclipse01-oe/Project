@@ -201,6 +201,7 @@ body {
 
  #contact ul li {
   list-style: none;
+  padding-left: 0;
  }
 
  #contact ul li a, #contactGmail a {
