@@ -260,7 +260,7 @@ hr{
 }
 
  #carouselExampleIndicators {
-  height: 78vh;
+  height: 50vh;
   margin-bottom: 40px;
  }
 
@@ -268,10 +268,11 @@ hr{
   object-fit: contain;
   padding-bottom: 50px;
   height: auto;
+  width: auto;
 } 
 }
 
-@media (min-width: 768px) {
+@media (min-width: 800px) {
   .partner_img img {
     height: 350px;
     width: auto; 
