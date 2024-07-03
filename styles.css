@@ -272,6 +272,9 @@ hr{
 } 
 }
 
-@media screen {
-  
+@media (min-width: 768px) {
+  .partner_img img {
+    height: 350px;
+    width: auto; 
+  }
 }
