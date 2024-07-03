@@ -227,7 +227,7 @@ body {
 
 /*media query section*/
 
- @media (min-width: 580px) and (max-width: 767px) {
+ @media (min-width: 520px) and (max-width: 800px) {
 .flex-item, .no-div{
   flex: 40%;
   flex-direction: row; 
@@ -273,7 +273,7 @@ hr{
 } 
 }
 
-@media (min-width: 800px) {
+@media (min-width: 8px) {
   .partner_img img {
     height: 350px;
     width: auto; 
