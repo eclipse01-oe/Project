@@ -213,9 +213,9 @@ body {
   font-family: 'Rubik', monospace;
  }
 
-.livecoinwatch-widget-1 {
-  height: 25rem;
-  margin: 15px 50%;
+.tradingview-widget-copright {
+  display: none;
+}
 }
  
 
