@@ -211,6 +211,10 @@ body {
   text-decoration: none;
   padding-left: 10px;
   font-family: 'Rubik', monospace;
+ } 
+
+ .tradingview-widget-container {
+  height: 150rem !important;
  }
 
 .tradingview-widget-copyright {
