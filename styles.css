@@ -260,14 +260,14 @@ hr{
 }
 
  #carouselExampleIndicators {
-  height: 90vh;
+  height: 95vh;
   margin-bottom: 40px;
  }
 
 .carousel-inner .carousel-item img {
   object-fit: contain;
   padding-bottom: 50px;
-  height: 450px;
+  height: 500px;
   width: auto;
 } 
 }
