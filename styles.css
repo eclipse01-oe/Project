@@ -212,6 +212,12 @@ body {
   padding-left: 10px;
   font-family: 'Rubik', monospace;
  }
+
+.livecoinwatch-widget-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
  
 
 /*media query section*/
