@@ -273,7 +273,7 @@ hr{
 } 
 }
 
-@media (min-width: 8px) {
+@media (min-width: 801px) {
   .partner_img img {
     height: 350px;
     width: auto; 
