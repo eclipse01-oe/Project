@@ -272,7 +272,7 @@ hr{
 }
 
 .partner_img img {
-  width: 25rem;
-  padding-top: 6.25rem;
+  width: auto;
+  height: 350px;
 }
  }
