@@ -217,7 +217,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 200px;
+  height: 12.5rem;
 }
  
 
@@ -267,7 +267,7 @@ hr{
 }
 
 .partner_img img {
-  width: 400px;
-  padding-top: 100px;
+  width: 25rem;
+  padding-top: 6.25rem;
 }
  }
