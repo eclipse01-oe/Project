@@ -221,7 +221,7 @@ body {
 
 /*media query section*/
 
- @media (min-width: 400px) {
+ @media (min-width: 500px) {
 .flex-item, .no-div{
   flex: 40%;
   flex-direction: row; 
