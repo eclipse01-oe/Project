@@ -268,7 +268,7 @@ hr{
 .carousel-inner .carousel-item img {
   object-fit: contain;
   padding-bottom: 50px;
-  height: auto;
+  height: 350px;
   width: auto;
 } 
 }
