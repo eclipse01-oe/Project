@@ -291,12 +291,20 @@ hr{
   padding-bottom: 50px;
   height: 560px;
   width: auto;
-} 
+}
+
+#contact .userDetails .user {
+  margin: 25px;
+}
 }
 
 @media (min-width: 801px) {
   .partner_img img {
     height: 500px;
     width: auto; 
+  }
+
+  #contact .userDetails .user {
+    margin: 30px;
   }
 }
