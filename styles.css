@@ -228,7 +228,6 @@ body {
 #contact .userDetails {
   display: flex;
   flex-direction: row;
-  flex: 30%;
   margin: 10px;
   text-align: center;
   justify-content: center;
@@ -239,6 +238,8 @@ body {
   align-items: center;
   text-align: center;
   line-height: 8px;
+  font-family: 'Rubik', monospace;
+
 }
  
 
