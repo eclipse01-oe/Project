@@ -189,7 +189,8 @@ body {
   margin: 0;
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
-  display: block; 
+  display: block;
+  color: white;
  }
 
  #contact h4, #contactGmail h4 {
