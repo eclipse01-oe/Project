@@ -223,6 +223,12 @@ body {
 .tradingview-widget-copyright {
   display: none;
 }
+
+#contact .userDetails {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
  
 
 /*media query section*/
