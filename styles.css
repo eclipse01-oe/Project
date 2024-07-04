@@ -229,6 +229,11 @@ body {
   flex-direction: row;
   margin: 10px;
 }
+
+#contact .userDetails p, #contact .userDetails h1 {
+  padding: 10px;
+  align-items: center;
+}
  
 
 /*media query section*/
