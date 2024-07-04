@@ -231,6 +231,7 @@ body {
   flex: 30%;
   margin: 10px;
   text-align: center;
+  justify-content: center;
 }
 
 #contact .userDetails p, #contact .userDetails h1 {
