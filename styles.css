@@ -234,7 +234,7 @@ body {
   padding: 10px;
 }
 
-#contact .userDetails p, #contact .userDetails h1 {
+#contact .userDetails p, #contact .userDetails h3 {
   padding: 5px 10px;
   align-items: center;
   text-align: center;
