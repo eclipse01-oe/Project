@@ -231,6 +231,7 @@ body {
   margin: 10px;
   text-align: center;
   justify-content: center;
+  padding: 10px;
 }
 
 #contact .userDetails p, #contact .userDetails h1 {
