@@ -127,7 +127,7 @@ body {
   padding-bottom: 20px;
  } 
 
- #contact hr {
+ #aboutCon hr {
   box-shadow: 0 5px 5px grey;
   width: 40%;
   height: 1px;
@@ -300,7 +300,7 @@ body {
   padding-right: 70px;
 }
 
-#contact hr {
+#aboutCon hr {
   display: none;
 }
 
@@ -340,7 +340,7 @@ body {
     margin: 30px;
   }
 
-  #contact hr {
+  #aboutCon hr {
     display: none;
   }
 }
