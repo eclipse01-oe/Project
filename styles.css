@@ -236,6 +236,7 @@ body {
 
 #contact .userDetails .user {
   margin: 15px;
+  margin-bottom: 5px;
 }
 
 #contact .userDetails p, #contact .userDetails h3 {
@@ -246,6 +247,9 @@ body {
   font-family: 'Rubik', monospace;
 }
  
+#contact #socials a {
+  padding: 15px;
+}
 
 /*media query section*/
 
