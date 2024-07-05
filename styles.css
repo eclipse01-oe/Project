@@ -211,7 +211,9 @@ body {
  #contact ul li a {
   text-decoration: none;
   padding-left: 10px;
+  color: aliceblue;
   font-family: 'Rubik', monospace;
+  padding-top: 10px;
  } 
 
  .tradingview-widget-container {
