@@ -277,7 +277,8 @@ body {
   border-style: inset;
   border-width: 1px;
   width: 60%;
-  height: 5px;
+  height: 3px;
+  color: white;
 }
 
 /*media query section*/
