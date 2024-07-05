@@ -257,6 +257,7 @@ body {
   align-items: center;
   font-style: italic;
   font-family: cursive;
+  line-height: 5px;
 }
 
 /*media query section*/
