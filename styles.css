@@ -208,7 +208,7 @@ body {
   list-style: none;
  }
 
- #contact ul li a, #contactGmail a {
+ #contact ul li a {
   text-decoration: none;
   padding-left: 10px;
   font-family: 'Rubik', monospace;
