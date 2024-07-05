@@ -206,6 +206,8 @@ body {
 
  #contact ul li {
   list-style: none;
+  margin: 15px;
+  padding: 10px;
  }
 
  #contact ul li a {
