@@ -248,7 +248,7 @@ body {
 }
  
 #contact #socials a {
-  padding: 10px 20px 20px 15px;
+  padding: 10px 20px 20px 0;
 }
 
 /*media query section*/
@@ -260,7 +260,7 @@ body {
   margin: 20px 15px;
   width: 50%;
   height: 100%;
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 #Home button {
