@@ -253,6 +253,7 @@ body {
 
 #contact #copyright {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   font-style: italic;
