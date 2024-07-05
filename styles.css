@@ -267,6 +267,10 @@ body {
   padding-top: 15px;
 }
 
+#contact hr {
+  
+}
+
 /*media query section*/
 
  @media (min-width: 500px) {
@@ -326,5 +330,9 @@ hr{
 
   #contact .userDetails .user {
     margin: 30px;
+  }
+
+  hr{
+    display: none;
   }
 }
