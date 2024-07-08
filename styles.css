@@ -286,7 +286,7 @@ body {
 .signUpPage {
   display: flex;
   position: relative;
-  height: 70vh;
+  height: 80vh;
   background-image: linear-gradient(to right, darkblue, orange);
   justify-content: center;
   align-items: center;
@@ -295,7 +295,7 @@ body {
 .signUpPage #signup {
   background-color: black;
   width: 70%;
-  height: 70%;
+  height: 80%;
   margin: auto;
   padding: auto;
 }
