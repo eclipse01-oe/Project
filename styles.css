@@ -283,7 +283,20 @@ body {
   color: white;
 }
 
+.signUpPage {
+  display: flex;
+  position: relative;
+  height: 70vh;
+  background-color: linear-gradient(to right, darkblue, orange);
+}
 
+.signUpPage #signup {
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  width: 70%;
+  height: 70%;
+}
 
 /*media query section*/
 
