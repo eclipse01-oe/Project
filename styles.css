@@ -402,4 +402,8 @@ body {
   .signUpPage #signup form {
     margin-top: 5%;
   }
+
+  .signUpPage #signup p {
+    padding-top: 2rem;
+  }
 }
