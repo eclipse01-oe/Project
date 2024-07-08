@@ -312,8 +312,8 @@ body {
   align-items: center;
   margin-top: 20%;
 }
-
-.signUpPage #signup form #submit {
+ 
+.signUpPage #signup #form form #submit {
   width: 200px;
   height: 30px;
   background-color: #00bbf0;
