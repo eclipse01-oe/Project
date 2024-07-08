@@ -303,7 +303,7 @@ body {
 } 
 
 .signUpPage #signup p {
-  padding-top: 1rem;
+  padding-top: 3rem;
 }
 
 .signUpPage #signup form {
@@ -367,8 +367,16 @@ body {
   margin: 25px;
 }
 
+.signUpPage {
+  height: 100vh;
+}
+
 .signUpPage #signup form {
-  margin-top: 10%;
+  height: 85%;
+}
+
+.signUpPage #signup form {
+  margin-top: 5%;
 }
 }
 
@@ -387,6 +395,6 @@ body {
   }
 
   .signUpPage #signup form {
-    margin-top: 10%;
+    margin-top: 5%;
   }
 }
