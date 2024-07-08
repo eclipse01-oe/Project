@@ -293,18 +293,18 @@ body {
 }
 
 .signUpPage #signup {
-  display: flex;
   background-color: black;
   width: 70%;
   height: 70%;
   margin: auto;
   padding: auto;
-  justify-content: center;
-  align-items: center;
 }
 
 .signUpPage #signup form {
- /* padding: auto;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
 
 
