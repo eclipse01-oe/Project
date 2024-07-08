@@ -314,6 +314,11 @@ body {
   margin-top: 20%;
 }
 
+.signUpPage #signup form #submit {
+  width: 200px;
+  height: 100px;
+}
+
 
 
 
