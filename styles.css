@@ -304,6 +304,7 @@ body {
 
 .signUpPage #signup p {
   padding: 2rem;
+  padding-bottom: 0.7rem;
 }
 
 .signUpPage #signup #form {
