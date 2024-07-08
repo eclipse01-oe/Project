@@ -288,15 +288,16 @@ body {
   position: relative;
   height: 70vh;
   background-color: linear-gradient(to right, darkblue, orange);
+  justify-content: center;
+  align-items: center;
 }
 
 .signUpPage #signup {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background-color: black;
   width: 70%;
   height: 70%;
+  margin: auto;
+  padding: auto;
 }
 
 /*media query section*/
