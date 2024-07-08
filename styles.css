@@ -300,6 +300,10 @@ body {
   margin: auto;
   padding: auto;
   text-align: center;
+} 
+
+.signUpPage #signup em {
+  padding-top: 1rem;
 }
 
 .signUpPage #signup form {
