@@ -377,9 +377,12 @@ body {
   height: 100vh;
 }
 
-
-.signUpPage #signup {
+.signUpPage #signup p {
   padding: 0.1rem auto;
+}
+
+.signUpPage #signup #form {
+  padding-top: 0;
 }
 }
 
@@ -399,5 +402,9 @@ body {
 
   .signUpPage #signup p {
     padding: 0.1rem auto;
+  }
+
+  .signUpPage #signup #form {
+    padding-top: 0;
   }
 }
