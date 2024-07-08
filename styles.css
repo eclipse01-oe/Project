@@ -366,6 +366,10 @@ body {
 #contact .userDetails .user {
   margin: 25px;
 }
+
+.signUpPage #signup form {
+  margin-top: 10%;
+}
 }
 
 @media (min-width: 801px) {
@@ -380,5 +384,9 @@ body {
 
   #aboutCon hr {
     display: none;
+  }
+
+  .signUpPage #signup form {
+    margin-top: 10%;
   }
 }
