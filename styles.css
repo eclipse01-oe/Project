@@ -388,7 +388,7 @@ body {
 }
 
 .signUpPage #signup {
-  padding: 1rem auto 1.3rem auto;
+  padding: 0.7rem auto 0 auto;
 }
 }
 
@@ -412,6 +412,6 @@ body {
   }
 
   .signUpPage #signup p {
-    padding: 1rem auto 1.3rem auto;
+    padding: 0.7rem auto 0 auto;
   }
 }
