@@ -376,7 +376,7 @@ body {
 .signUpPage {
   height: 100vh;
 }
-
+/*
 .signUpPage #signup form {
   height: 85%;
   line-height: 13px;
@@ -384,7 +384,7 @@ body {
 
 .signUpPage #signup form {
   margin-top: 0;
-}
+}*/
 
 .signUpPage #signup {
   padding: 0.7rem auto 0 auto;
@@ -404,11 +404,11 @@ body {
   #aboutCon hr {
     display: none;
   }
-
+/*
   .signUpPage #signup form {
     margin-top: 0;
     line-height: 13px;
-  }
+  }*/
 
   .signUpPage #signup p {
     padding: 0.7rem auto 0 auto;
