@@ -379,6 +379,7 @@ body {
 
 .signUpPage #signup p {
   padding: 0.1rem auto;
+  padding-bottom: 0;
 }
 
 .signUpPage #signup #form {
@@ -402,6 +403,7 @@ body {
 
   .signUpPage #signup p {
     padding: 0.1rem auto;
+    padding-bottom: 0;
   }
 
   .signUpPage #signup #form {
