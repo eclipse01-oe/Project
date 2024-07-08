@@ -312,7 +312,6 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 20%;
-  line-height: 10px;
 }
 
 
@@ -374,14 +373,15 @@ body {
 
 .signUpPage #signup form {
   height: 85%;
+  line-height: 10px;
 }
 
 .signUpPage #signup form {
-  margin-top: 5%;
+  margin-top: 0;
 }
 
 .signUpPage #signup {
-  padding-top: 2rem;
+  padding: 1rem auto 1.3rem auto;
 }
 }
 
@@ -400,10 +400,11 @@ body {
   }
 
   .signUpPage #signup form {
-    margin-top: 5%;
+    margin-top: 0;
+    line-height: 10px;
   }
 
   .signUpPage #signup p {
-    padding-top: 2rem;
+    padding: 1rem auto 1.3rem auto;
   }
 }
