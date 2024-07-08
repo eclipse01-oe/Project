@@ -316,7 +316,7 @@ body {
 
 .signUpPage #signup form #submit {
   width: 200px;
-  height: 100px;
+  height: 30px;
   background-color: #00bbf0;
   color: aliceblue;
 }
