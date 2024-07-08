@@ -303,7 +303,7 @@ body {
 } 
 
 .signUpPage #signup p {
-  padding-top: 3rem;
+  padding: 2rem;
 }
 
 .signUpPage #signup #form {
@@ -376,18 +376,10 @@ body {
 .signUpPage {
   height: 100vh;
 }
-/*
-.signUpPage #signup form {
-  height: 85%;
-  line-height: 13px;
-}
 
-.signUpPage #signup form {
-  margin-top: 0;
-}*/
 
 .signUpPage #signup {
-  padding: 0.7rem auto 0 auto;
+  padding: 0.1rem auto;
 }
 }
 
@@ -404,13 +396,8 @@ body {
   #aboutCon hr {
     display: none;
   }
-/*
-  .signUpPage #signup form {
-    margin-top: 0;
-    line-height: 13px;
-  }*/
 
   .signUpPage #signup p {
-    padding: 0.7rem auto 0 auto;
+    padding: 0.1rem auto;
   }
 }
