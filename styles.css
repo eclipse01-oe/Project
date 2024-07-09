@@ -335,6 +335,10 @@ body {
 }
 
 
+.signUpPage #signup #addForm{
+  flex-direction: column;
+}
+
 
 /*media query section*/
 
