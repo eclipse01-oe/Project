@@ -402,6 +402,7 @@ body {
 
 .signUpPage #signup #form {
   justify-content: left;
+  align-items: flex-start;
 }
 
 .signUpPage #signup #form form #addForm {
