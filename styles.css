@@ -401,13 +401,12 @@ body {
 }
 
 .signUpPage #signup #form {
-  justify-content: left;
-  align-items: flex-start;
+  flex: 1;
+  flex-wrap: column;
 }
 
 .signUpPage #signup #form form #addForm {
-  justify-content: right;
-  align-items: center;
+  flex: 1
 }
 }
 
