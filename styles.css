@@ -319,11 +319,12 @@ body {
 }
  
 .signUpPage #signup #form form #submit {
-  width: 200px;
+  width: 150px;
   height: 30px;
   border-radius: 15px;
   background-color: #00bbf0;
   color: aliceblue;
+  padding: 10px 10px 10px auto;
 }
 
 .signUpPage #signup #form form .input{
