@@ -335,10 +335,6 @@ body {
 }
 
 
-.signUpPage #signup #form #addForm {
-  float: right;
-}
-
 
 
 /*media query section*/
@@ -402,7 +398,11 @@ body {
 
 .signUpPage #signup #form {
   margin-top: 0;
-} 
+}
+
+.signUpPage #signup #form #addForm {
+  float: left;
+}
 }
 
 @media (min-width: 801px) {
