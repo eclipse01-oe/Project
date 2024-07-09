@@ -335,8 +335,8 @@ body {
 }
 
 
-.signUpPage #signup #addForm, .signUpPage #signup #form form #submi.signUpPage #signup #addForm {
-  display: block;
+.signUpPage #signup #form #addForm {
+  float: right;
 }
 
 
