@@ -300,6 +300,7 @@ body {
   margin: auto;
   padding: auto;
   text-align: center;
+  border-radius: 15px;
 } 
 
 .signUpPage #signup p {
