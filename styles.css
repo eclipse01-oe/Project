@@ -335,7 +335,7 @@ body {
 }
 
 
-.signUpPage #signup #addForm{
+.signUpPage #signup #addForm, .signUpPage #signup #form form #submit {
   flex-direction: column;
 }
 
