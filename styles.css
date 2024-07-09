@@ -406,8 +406,9 @@ body {
 }
 
 .signUpPage #signup #form form #addForm {
-  position: absolute;
-  float: right;
+  display: flex;
+  justify-content: right;
+  align-items: center;
 }
 }
 
