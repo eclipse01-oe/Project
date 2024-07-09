@@ -336,7 +336,7 @@ body {
 
 
 .signUpPage #signup #addForm, .signUpPage #signup #form form #submi.signUpPage #signup #addForm {
-  flex-direction: column;
+  display: block;
 }
 
 
