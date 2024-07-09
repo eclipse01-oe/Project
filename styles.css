@@ -306,6 +306,9 @@ body {
 .signUpPage #signup p {
   padding: 2rem;
   padding-bottom: 0.7rem;
+  opacity: 0.8;
+  font-size: 10rem;
+  font-weight: 100;
 }
 
 .signUpPage #signup #form {
