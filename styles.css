@@ -400,8 +400,8 @@ body {
   margin-top: 0;
 }
 
-.signUpPage #signup #form #addForm {
-  float: left;
+.signUpPage #signup #form .input {
+  float: right;
 }
 }
 
