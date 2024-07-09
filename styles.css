@@ -303,7 +303,7 @@ body {
   border-radius: 15px;
 } 
 
-.signUpPage #signup p {
+.signUpPage #signup h1 {
   padding: 2rem;
   padding-bottom: 0.7rem;
   opacity: 1;
