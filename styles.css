@@ -431,4 +431,12 @@ body {
   .signUpPage #signup #form {
     margin-top: 0; 
   }
+
+  .signUpPage #signup #form {
+    display: flex;
+  }
+
+  .signUpPage #signup #form form {
+    margin-right: 50px;
+  }
 }
