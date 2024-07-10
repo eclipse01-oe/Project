@@ -284,7 +284,8 @@ body {
 }
 
 .signUpPage {
-  display: flex;
+  display: grid;
+  grid-template-columns: auto;
   position: relative;
   height: 85vh;
   background-image: linear-gradient(to right, darkblue, orange);
