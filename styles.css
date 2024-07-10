@@ -290,6 +290,7 @@ body {
   background-image: linear-gradient(to right, darkblue, orange);
   justify-content: center;
   align-items: center;
+  color: #00bbf0; 
 }
 
 .signUpPage #signup {
@@ -396,7 +397,6 @@ body {
 .signUpPage #signup p {
   padding: 0.1rem auto;
   padding-bottom: 0;
-  color: #00bbf0;
 }
 
 .signUpPage #signup #form {
