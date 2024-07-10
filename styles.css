@@ -399,7 +399,7 @@ body {
 }
 
 .signUpPage #signup #form {
-  grid-template-columns: 1fr 1fr;
+  display: flex;
 }
 
 }
