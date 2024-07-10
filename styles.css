@@ -310,7 +310,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
 }
-
+ 
 .signUpPage #signup #form {
   display: grid;
   grid-template-columns: auto;
@@ -399,17 +399,9 @@ body {
 }
 
 .signUpPage #signup #form {
-  margin-top: 0;
+  grid-template-columns: auto auto;
 }
 
-.signUpPage #signup #form {
-  flex: 1;
-  flex-wrap: column;
-}
-
-.signUpPage #signup #form form #addForm {
-  flex: 1
-}
 }
 
 @media (min-width: 801px) {
