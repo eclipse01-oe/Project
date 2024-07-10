@@ -401,6 +401,10 @@ body {
 .signUpPage #signup #form {
   display: flex;
 }
+ 
+.signUpPage #signup #form form {
+  padding-right: 20px;
+}
 
 }
 
