@@ -308,7 +308,7 @@ body {
   padding-bottom: 0.7rem;
   opacity: 1;
   font-size: 2rem;
-  font-weight: 700;
+  font-weight: 700; 
   color: #00bbf0; 
 }
  
@@ -340,7 +340,7 @@ body {
 
 
 
-/*media query section*/
+/*media query section*/ 
 
  @media (min-width: 500px) {
 .flex-item, .no-div{
