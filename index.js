@@ -1,0 +1,1 @@
+let signUp= document.querryselector('#home, #sign-up')
