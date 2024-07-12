@@ -192,7 +192,7 @@ body {
   display: block;
   color: black;
   border-radius: 15px;
-  box-shadow: 15px 15px 15px 4px gray ; 
+  box-shadow: 20px 15px 15px 5px gray ; 
  }
 
  #contact h4 {
@@ -214,11 +214,8 @@ body {
 
  #contact ul li a {
   text-decoration: none;
-  padding-left: 10px;
-  padding-top: 5px;
   color: black;
   font-family: 'Rubik', monospace;
-  margin: 10px;
  } 
 
  .tradingview-widget-container {
