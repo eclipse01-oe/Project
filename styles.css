@@ -8,6 +8,7 @@ body {
   background-color: lightyellow;
   margin: 0;
   padding: 0;
+  position: relative;
 }
 
 #header-img { 
@@ -283,7 +284,7 @@ body {
 }
 
 .signUpPage {
-  display: none;
+  display: fixed;
   position: relative;
   height: 85vh;
   background-image: linear-gradient(to right, darkblue, orange);
