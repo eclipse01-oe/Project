@@ -284,13 +284,12 @@ body {
 }
 
 .signUpPage {
-        position: absolute;
-          top: 20%;
-            bottom:50%;
-              z-index :10;
-                opacity: 2;
-                  backdrop-filter: blur (20px);
-                   -webkit-backdrop-filter: blur (20px);
+  position: absolute;
+  top: 20%;
+  bottom:50%;
+  z-index :10;
+  backdrop-filter: blur (20px);
+  -webkit-backdrop-filter: blur (20px);
   height: 85vh;
   width: 100vw;
   background-image: linear-gradient(to right, darkblue, orange);
