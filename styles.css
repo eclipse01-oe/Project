@@ -290,7 +290,7 @@ body {
   transform: translateY(-50%);
   z-index :10;
   backdrop-filter: opacity (0.5);
-  -webkit-backdrop-filter: blur (20px);
+  -webkit-backdrop-filter: opacity (0.5);
   height: 80vh;
   width: 100vw;
   background-image: linear-gradient(to right, darkblue, orange);
