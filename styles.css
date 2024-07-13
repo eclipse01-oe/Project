@@ -289,7 +289,7 @@ body {
   top: 20%;
   bottom:50%;
   z-index :10;
-  backdrop-filter: opacity (20px);
+  backdrop-filter: opacity (0.5);
   -webkit-backdrop-filter: blur (20px);
   height: 85vh;
   width: 100vw;
