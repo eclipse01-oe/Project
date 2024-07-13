@@ -284,7 +284,7 @@ body {
 }
 
 .signUpPage {
-  position: absolute;
+  position: fixed;
   display: flex;
   top: 20%;
   bottom:50%;
