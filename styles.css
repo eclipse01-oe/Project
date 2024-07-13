@@ -20,6 +20,7 @@ body {
   -webkit-backdrop-filter: opacity (0.3);
   backdrop-filter: opacity (0.3);
   opacity: 0.8;
+  z-index: -10;
 }
 
 #header-img { 
