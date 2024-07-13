@@ -294,6 +294,7 @@ body {
 
 .signUpPage {
   position: fixed;
+  display: hidden;
   bottom:0%;
   top: 0%;
   transform: translate (-0, -50%);
