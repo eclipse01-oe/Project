@@ -412,6 +412,10 @@ body {
   height: 100vh;
 }
 
+.signUpPage #signup {
+  margin-top: 10px;
+}
+
 .signUpPage #signup p {
   padding: 0.1rem auto;
   padding-bottom: 0;
