@@ -1,4 +1,4 @@
-let signUp= document.querryselector('#home, #sign-up');
+/*let signUp= document.querryselector('#home, #sign-up');
 let body= document.body;
 
 let signUpFunc= ()=> { 
@@ -8,4 +8,4 @@ let signUpFunc= ()=> {
     signUp.style.cssText=`
     display: absolute;
     position: fixed;`
-}
+}*/
