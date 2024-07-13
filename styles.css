@@ -285,7 +285,6 @@ body {
 
 .signUpPage {
   position: fixed;
-  display: flex;
   bottom:50%;
   top: 50%;
   transform: translate (0, -50%);
