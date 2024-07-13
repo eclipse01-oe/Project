@@ -6,3 +6,5 @@ let signUpFunc= ()=> {
 }
 
 signUpBtn.addEventListener("click", signUpFunc);
+
+alert("welcom");
