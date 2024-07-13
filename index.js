@@ -1,8 +1,8 @@
-let signUp= document.querryselector('#home > #sign-up');
-let body= document.body;
+let signUpBtn= document.querySelector('#header > #home > #sign-up');
+let signUpPage= document.querySelector('.signUpPage')
 
 let signUpFunc= ()=> {
-    signUp.style.cssText= `display: flex;`;
+    signUpPage.style.cssText= `display: flex;`;
 }
 
-signUp.addEventListener("click", signUpFunc);
+signUpBtn.addEventListener("click", signUpFunc);
