@@ -11,6 +11,16 @@ body {
   position: relative;
 }
 
+.body {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  -webkit-backdrop-filter: opacity (0.3);
+  backdrop-filter: opacity (0.3);
+}
+
 #header-img { 
   object-fit: contain;
   width: 50px;
