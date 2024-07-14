@@ -7,5 +7,5 @@ let signUpFunc= ()=> {
     signUpPage.style.cssText= `display: flex;`;
     };
 
-    signUpBtn.addEventListener("click", signUpFunc);
+    signUpBtn.addEventListener("click", signUpFunc());
 alert("welcome");
