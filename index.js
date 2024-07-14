@@ -1,5 +1,5 @@
 let signUpBtn= document.querySelector('#Header > #Home > #sign-up');
-let signUpPage= document.querySelector('.signUpPage');
+let signUpPage= document.getElementByClassName('.signUpPage');
 
 let signUpFunc= ()=> {
     signUpPage.style.cssText= `display: flex;`;
