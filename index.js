@@ -1,4 +1,3 @@
-
 let signUpBtn= document.querySelector('#Header > #Home > #sign-up');
 let signUpPage= document.querySelector('.signUpPage');
 
