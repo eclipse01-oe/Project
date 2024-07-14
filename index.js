@@ -1,4 +1,4 @@
-alert("welcome");
+
 let signUpBtn= document.querySelector('#Header > #Home > #sign-up');
 let signUpPage= document.querySelector('.signUpPage');
 
@@ -8,4 +8,4 @@ let signUpFunc= ()=> {
     };
 
     signUpBtn.addEventListener("click", signUpFunc);
- 
+alert("welcome");
