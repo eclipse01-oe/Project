@@ -7,4 +7,4 @@ let signUpFunc= ()=> {
     };
 
     signUpBtn.addEventListener("click", signUpFunc());
-alert("welcome"); 
+alert("welcome");
