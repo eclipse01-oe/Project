@@ -295,11 +295,11 @@ body {
 .signUpPage {
   position: fixed;
   display: none;
-  bottom:0%;
-  top: 0%;
+  bottom: 50%;
+  top: 50%;
   transform: translate (-0, -50%);
   z-index :10;
-  height: 100vh;
+  height: 7vh;
   width: 100vw;
   background-image: linear-gradient(to right, darkblue, orange);
   justify-content: center;
