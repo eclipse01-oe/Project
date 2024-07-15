@@ -306,7 +306,16 @@ body {
   align-items: center;
   background-color: rgb(0,0,0);
   background-color: rgba(0,0,0,0.4);
+  animation-name: animatetop;
+  animation-duration: 0.4s
 }
+
+
+@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+
 
 .signUpPage #signup {
   background-color: white;
