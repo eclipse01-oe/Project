@@ -6,7 +6,7 @@ let signUpFunc= ()=> {
     signUpPage.style.display='flex';   
     wholeBody.forEach((element) =>{
         element.style.cssText=
-        `filter: blur(7px)
+        `filter: blur(7px);
         overflow: hidden;`;
     })
     console.log("button clicked");
