@@ -7,8 +7,7 @@ let signUpFunc= ()=> {
     wholeBody.forEach((element) =>{
         element.style.cssText=
         `filter: blur(7px)
-        overflow: hidden;
-        background-color: #352f44;`;
+        overflow: hidden;`;
     })
     console.log("button clicked");
     };
