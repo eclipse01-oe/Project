@@ -1,6 +1,6 @@
 let signUpBtn= document.querySelector('#Header > #Home > #sign-up');
 let signUpPage= document.getElementsByClassName('signUpPage')[0];
-let wholeBody= document.getElementsById('Header body footer');
+let wholeBody= document.getElementById('Header body footer');
 
 let signUpFunc= ()=> {
     signUpPage.style.cssText= `display: flex;`; 
