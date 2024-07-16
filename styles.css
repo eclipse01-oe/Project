@@ -297,10 +297,11 @@ body {
   display: none;
   bottom: 30%;
   top: 10%;
+  left: 10%;
   transform: translate (-0, -50%);
   z-index :10;
   height: 75vh;
-  width: 80vw;
+  width: 90vw;
   border-width: 15px;
   background-image: linear-gradient(to right, darkblue, orange);
   justify-content: center;
@@ -322,7 +323,7 @@ body {
   background-color: white;
   opacity: 0.7;
   width: 80%;
-  height: 85%;
+  height: 80%;
   margin: auto;
   padding: auto;
   text-align: center;
@@ -347,6 +348,7 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 15%;
+  width: 70%;
 }
  
 .signUpPage #signup #form #addForm #submit {
