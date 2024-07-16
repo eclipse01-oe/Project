@@ -4,7 +4,7 @@ let wholeBody= document.querySelectorAll('Header body footer');
 
 let signUpFunc= ()=> {
     signUpPage.style.cssText= `display: flex;`;  
-    wholeBody.style.cssText= `opacity: 0.4;
+    wholeBody.style.cssText= `filter: blur(8px);
     overflow-y: hidden; `;
     console.log("button clicked");
     };
