@@ -300,7 +300,8 @@ body {
   transform: translate (-0, -50%);
   z-index :10;
   height: 75vh;
-  width: 100vw;
+  width: 80vw;
+  border-width: 15px;
   background-image: linear-gradient(to right, darkblue, orange);
   justify-content: center;
   align-items: center;
