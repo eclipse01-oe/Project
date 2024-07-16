@@ -303,7 +303,7 @@ body {
   z-index :10;
   height: 75vh;
   width: 90vw;
-  border-width: 15px;
+  border-radius: 15px;
   background-image: linear-gradient(to right, darkblue, orange);
   justify-content: center;
   align-items: center;
