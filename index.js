@@ -3,9 +3,11 @@ let signUpPage= document.getElementsByClassName('signUpPage')[0];
 const wholeBody= document.querySelectorAll('#Header, #body, #footer');
 
 let signUpFunc= ()=> {
-    signUpPage.style.cssText= `display: flex;`;  
-    wholeBody.style.cssText= `filter: blur(8px);
-    overflow-y: hidden; `;
+    signUpPage.style.display='flex`;   
+    wholeBody.forEach((element) =>{
+        element.style.filter='blur(8px)';
+        element.style.overflow-y='hidden';
+    })
     console.log("button clicked");
     };
 
