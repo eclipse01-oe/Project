@@ -349,7 +349,6 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 15%;
-  width: 70%;
 }
  
 .signUpPage #signup #form #addForm #submit {
@@ -369,6 +368,7 @@ body {
   background-color: white;
   color: black;
   opacity: 1;
+  padding-left: 10px;
 }
 
 
