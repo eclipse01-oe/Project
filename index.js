@@ -5,8 +5,10 @@ const wholeBody= document.querySelectorAll('#Header, #body, #footer');
 let signUpFunc= ()=> {
     signUpPage.style.display='flex';   
     wholeBody.forEach((element) =>{
-        element.style.filter='blur(8px)';
-        element.style.overflow='hidden';
+        element.style.cssText=
+        `filter: blur(7px)
+        overflow: hidden;
+        background-color: #352f44;`;
     })
     console.log("button clicked");
     };
