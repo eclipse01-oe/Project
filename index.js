@@ -5,6 +5,7 @@ const Body= document.querySelector('body');
 
 let signUpFunc= ()=> {
     signUpPage.style.display='flex';
+    Body.style.overflow='hidden';
     wholeBody.forEach((element) =>{
         element.style.cssText=`filter: blur(7px);
         overflow: hidden;`;
