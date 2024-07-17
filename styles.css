@@ -428,9 +428,8 @@ body {
   top: 5%;
  /* transform: translate(1%, -60%);*/
 }
-
 .signUpPage #signup {
-  margin-top: 15px;
+  height: 100vh;
 }
 
 .signUpPage #signup p {
