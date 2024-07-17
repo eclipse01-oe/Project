@@ -434,12 +434,12 @@ body {
 }
 
 .signUpPage #signup p {
-  padding: 0.1rem auto;
-  padding-bottom: 0;
+  padding: 0;
 }
 
 .signUpPage #signup #form {
   display: flex;
+  padding-top: 0;
 }
  
 .signUpPage #signup #form form {
