@@ -424,9 +424,9 @@ body {
 
 .signUpPage {
   height: 90vh;
-  bottom: 75%;
+  bottom: 10%;
   top: 5%;
-  transform: translate(1%, -70%);
+ /* transform: translate(1%, -60%);*/
 }
 
 .signUpPage #signup {
