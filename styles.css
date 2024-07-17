@@ -338,7 +338,7 @@ body {
   opacity: 1;
   font-size: 2rem;
   font-weight: 700; 
-  color: #00bbf0; 
+  color: #00bbf0;
 }
  
 .signUpPage #signup #form {
@@ -424,7 +424,7 @@ body {
 
 .signUpPage {
   height: 100vh;
-  bottom: 40%;
+  bottom: 45%;
 }
 
 .signUpPage #signup {
