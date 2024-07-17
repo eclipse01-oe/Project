@@ -424,11 +424,11 @@ body {
 
 .signUpPage {
   height: 100vh;
+  top: 20%;
 }
 
 .signUpPage #signup {
   margin-top: 10px;
-  height: 85%;
 }
 
 .signUpPage #signup p {
