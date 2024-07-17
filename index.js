@@ -6,7 +6,8 @@ const Body= document.querySelector('body');
 let signUpFunc= ()=> {
     signUpPage.style.display='flex';
     wholeBody.forEach((element) =>{
-        element.style.filter=' blur(7px)';
+        element.style.cssText=`filter: blur(7px);
+        overflow: hidden;`;
     }) 
     console.log("button clicked");
     };
