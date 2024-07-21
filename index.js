@@ -40,7 +40,13 @@ alert("welcome");
 /*screen tap to close*/
 
 window.onclick= (event)=> {if(event.target==signUpPage || event.target==loginPage){
-        location.reload();
+        /*location.reload();*/
+        loginPage.style.display='none';
+        Body.style.overflow='auto';
+        wholeBody.forEach((element) =>{
+        element.style.cssText=`filter: none;
+        overflow: auto;`;
+    });
     } else{}
 }
  
@@ -48,7 +54,13 @@ window.onclick= (event)=> {if(event.target==signUpPage || event.target==loginPag
     /*cancel button to close*/
 
     const tapScreen=()=>{
-        location.reload();
+        /*location.reload();*/
+        loginPage.style.display='none';
+        Body.style.overflow='auto';
+        wholeBody.forEach((element) =>{
+        element.style.cssText=`filter: none;
+        overflow: auto;`;
+        });
     }
 
     Array.from(cancelBtn).forEach((btn) =>{
