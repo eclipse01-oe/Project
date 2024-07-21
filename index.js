@@ -60,4 +60,5 @@ const tapScreen=  ()=> {
 
     for (let j=0; j<cancelBtn.length; j++){
         cancelBtn[j].addEventListener("click", tapScreen);
+        console.log(cancelBtn[j]);
     }; 
