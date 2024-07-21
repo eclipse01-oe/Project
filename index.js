@@ -16,7 +16,7 @@ let signUpFunc= ()=> {
     signUpBtn.addEventListener("click", signUpFunc);
 alert("welcome");
 
-const tapScreen= onclick = ()=> {
+const tapScreen=  ()=> {
     signUpPage.style.display='none';
     Body.style.overflow='scroll';
     wholeBody.forEach((element)=>{
@@ -24,4 +24,4 @@ const tapScreen= onclick = ()=> {
         overflow: scroll;`;)
     };
 
-    window.tapScreen
+    window.onclick=tapScreen;
