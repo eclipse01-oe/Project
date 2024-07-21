@@ -48,6 +48,13 @@ const tapScreen=  ()=> {
     });
     };
 
+
+    /*if(signUpPage.style.displa === flex){
+    window.onclick=tapScreen;
+    } else{
+     
+    }
+
     /* window.onclick=tapScreen;/*window tap to close*/
 
     /*cancel button to close*/
