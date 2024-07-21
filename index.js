@@ -50,11 +50,11 @@ const tapScreen=  ()=> {
     };
  
  
-   /* if(signUpPage.style.display ==='flex' && loginPage.style.display === 'flex'){
+    if(signUpPage.style.display ==='flex' && loginPage.style.display === 'flex'){
     window.onclick=tapScreen;
     } else{}*/
  
-     window.onclick=tapScreen;/*window tap to close*/
+     /*window.onclick=tapScreen;/*window tap to close*/
 
     /*cancel button to close*/
 
