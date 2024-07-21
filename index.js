@@ -39,17 +39,17 @@ alert("welcome");
 
 /*screen tap to close*/
 
-const tapScreen=()=>{
-    location.reload();
-}
-
-window.onclick= (event)=> {if(event.target== signUpPage || event.target==loginPage){
+window.onclick= (event)=> {if(event.target==signUpPage || event.target==loginPage){
         location.reload();
     } else{}
 }
  
 
     /*cancel button to close*/
+
+    const tapScreen=()=>{
+        location.reload();
+    }
 
     Array.from(cancelBtn).forEach((btn) =>{
         btn.addEventListener("click", tapScreen);
