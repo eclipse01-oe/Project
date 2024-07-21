@@ -15,3 +15,13 @@ let signUpFunc= ()=> {
 
     signUpBtn.addEventListener("click", signUpFunc);
 alert("welcome");
+
+const tapScreen= onclick = ()=> {
+    signUpPage.style.display='none';
+    Body.style.overflow='scroll';
+    wholeBody.forEach((element)=>{
+        element.style.cssText=`filter: blur(0);
+        overflow: scroll;`;)
+    };
+
+    window.tapScreen
