@@ -39,9 +39,7 @@ alert("welcome");
 
 /*screen tap to close*/
 
-const tapScreen=  ()=> {
-    location.reload();
-    };
+const tapScreen= location.reload();
  
  
     if(signUpPage.style.display ==='flex' ||  loginPage.style.display === 'flex'){
