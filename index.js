@@ -50,7 +50,7 @@ const tapScreen=  ()=> {
     };
  
  
-    if(signUpPage.style.display && loginPage.style.display === 'flex'){
+    if(signUpPage.style.display ==='flex' && loginPage.style.display === 'flex'){
     window.onclick=tapScreen;
     } else{}
 
