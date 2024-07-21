@@ -1,9 +1,10 @@
-let signUpBtn= document.querySelector('#Header > #Home > #sign-up');
-let signUpPage= document.getElementsByClassName('signUpPage')[0];
+const signUpBtn= document.querySelector('#Header > #Home > #sign-up');
+const signUpPage= document.getElementsByClassName('signUpPage')[0];
+const loginPage= document.getElementsByClassName('loginPage')[0];
 const wholeBody= document.querySelectorAll('#Header, #body, #footer');
 const Body= document.querySelector('body');
 
-let signUpFunc= ()=> {
+const signUpFunc= ()=> {
     signUpPage.style.display='flex';
     Body.style.overflow='hidden';
     wholeBody.forEach((element) =>{
