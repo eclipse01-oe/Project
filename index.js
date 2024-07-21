@@ -40,17 +40,18 @@ alert("welcome");
 /*screen tap to close*/
 
 const tapScreen=  ()=> {
-    signUpPage.style.display='none';
+    location.reload();
+   /* signUpPage.style.display='none';
     loginPage.style.display='none';
     Body.style.overflow='visible'; 
     wholeBody.forEach((element)=>{
         element.style.cssText=`filter: blur(0);
         overflow: visible';`;
-    });
+    });*/
     };
  
  
-    if(signUpPage.style.display ==='flex' && loginPage.style.display === 'flex'){
+    if(signUpPage.style.display ==='flex' ||  loginPage.style.display === 'flex'){
     window.onclick=tapScreen;
     } else{}
  
