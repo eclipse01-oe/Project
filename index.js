@@ -14,7 +14,7 @@ const signUpFunc= ()=> {
     wholeBody.forEach((element) =>{
         element.style.cssText=`filter: blur(7px);
         overflow: hidden;`;
-    }) 
+    });
     console.log("sign up button clicked");
     };
 
@@ -29,7 +29,7 @@ const signUpFunc= ()=> {
     wholeBody.forEach((element) =>{
         element.style.cssText=`filter: blur(7px);
         overflow: hidden;`;
-    })
+    });
     console.log("login button clicked");
     };
    
