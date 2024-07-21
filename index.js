@@ -41,6 +41,7 @@ alert("welcome");
 
 const tapScreen=  ()=> {
     signUpPage.style.display='none';
+    loginPage.style.display='none';
     Body.style.overflow='scroll';
     wholeBody.forEach((element)=>{
         element.style.cssText=`filter: blur(0);
@@ -49,7 +50,7 @@ const tapScreen=  ()=> {
     };
  
  
-    if(signUpPage.style.display === 'flex'){
+    if(signUpPage.style.display && loginPage.style.display === 'flex'){
     window.onclick=tapScreen;
     } else{}
 
