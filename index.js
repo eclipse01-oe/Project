@@ -42,6 +42,7 @@ alert("welcome");
 window.onclick= (event)=> {if(event.target==signUpPage || event.target==loginPage){
         /*location.reload();*/
         loginPage.style.display='none';
+        signUpPage.style.display='none';
         Body.style.overflow='auto';
         wholeBody.forEach((element) =>{
         element.style.cssText=`filter: none;
@@ -56,6 +57,7 @@ window.onclick= (event)=> {if(event.target==signUpPage || event.target==loginPag
     const tapScreen=()=>{
         /*location.reload();*/
         loginPage.style.display='none';
+        signUpPage.style.display='none';
         Body.style.overflow='auto';
         wholeBody.forEach((element) =>{
         element.style.cssText=`filter: none;
