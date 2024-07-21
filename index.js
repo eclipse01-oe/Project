@@ -45,7 +45,7 @@ const tapScreen=  ()=> {
  
  
     if(signUpPage.style.display ==='flex' ||  loginPage.style.display === 'flex'){
-    Body.onclick=tapScreen;
+    Body.addEventListener("click", tapScreen);
     } else{}
  
      /*window.onclick=tapScreen;/*window tap to close*/
