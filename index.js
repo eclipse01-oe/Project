@@ -52,6 +52,6 @@ const tapScreen=  ()=> {
 
     /*cancel button to close*/
 
-    for (j=0; j<cancelBtn.length; j++){
-        cancelBtn[j].addEventListener("click" tapScreen);
+    for (let j=0; j<cancelBtn.length; j++){
+        cancelBtn[j].addEventListener("click", tapScreen);
     }; 
