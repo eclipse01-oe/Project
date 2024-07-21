@@ -48,7 +48,7 @@ const tapScreen=  ()=> {
     });
     };
 
-    window.onclick=tapScreen;/*window tap to close*/
+   */* window.onclick=tapScreen;/*window tap to close*/
 
     /*cancel button to close*/
 
