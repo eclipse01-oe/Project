@@ -47,13 +47,13 @@ const tapScreen=  ()=> {
         overflow: scroll;`;
     });
     };
+ 
 
-
-    /*if(signUpPage.style.displa === flex){
+    if(signUpPage.style.displa === flex){
     window.onclick=tapScreen;
-    } else{
-     
-    }
+    }; else{
+
+    };
 
     /* window.onclick=tapScreen;/*window tap to close*/
 
