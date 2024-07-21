@@ -51,4 +51,4 @@ const tapScreen=  ()=> {
 
     /*cancel button to close*/
 
-    for (i=0; i<cancelBtn.length; i++){loginFunc};
+    for (i=0; i<cancelBtn.length; i++){tapScreen};
