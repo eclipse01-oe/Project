@@ -60,5 +60,5 @@ const tapScreen=  ()=> {
 
     Array.from(cancelBtn).forEach((btn) =>{
         btn.addEventListener("click", tapScreen);
-        console.log(cancelBtn[j]);
+        console.log("cancel btn is clicked"); 
     });
