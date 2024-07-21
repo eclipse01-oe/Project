@@ -45,8 +45,8 @@ const tapScreen=  ()=> {
     Body.style.overflow='revert'; 
     wholeBody.forEach((element)=>{
         element.style.cssText=`filter: blur(0);
-        overflow: rev'ert';`;
-    }); 
+        overflow: revert';`;
+    });
     };
  
  
