@@ -42,10 +42,10 @@ alert("welcome");
 const tapScreen=  ()=> {
     signUpPage.style.display='none';
     loginPage.style.display='none';
-    Body.style.overflow='scroll';
+    Body.style.overflow='unset';
     wholeBody.forEach((element)=>{
         element.style.cssText=`filter: blur(0);
-        overflow: scroll;`;
+        overflow: unset;`;
     });
     };
  
