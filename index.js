@@ -40,7 +40,6 @@ alert("welcome");
 /*screen tap to close*/
 
 window.onclick= (event)=> {if(event.target==signUpPage || event.target==loginPage){
-        /*location.reload();*/
         loginPage.style.display='none';
         signUpPage.style.display='none';
         Body.style.overflow='auto';
@@ -55,7 +54,6 @@ window.onclick= (event)=> {if(event.target==signUpPage || event.target==loginPag
     /*cancel button to close*/
 
     const tapScreen=()=>{
-        /*location.reload();*/
         loginPage.style.display='none';
         signUpPage.style.display='none';
         Body.style.overflow='auto';
