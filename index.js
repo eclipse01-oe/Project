@@ -37,12 +37,18 @@ const signUpFunc= ()=> {
 
 alert("welcome");
 
+/*screen tap to close*/
+
 const tapScreen=  ()=> {
     signUpPage.style.display='none';
     Body.style.overflow='scroll';
     wholeBody.forEach((element)=>{
         element.style.cssText=`filter: blur(0);
-        overflow: scroll;`;)
+        overflow: scroll;`;})
     };
 
-    window.onclick=tapScreen;
+    window.onclick=tapScreen;/*window tap to close*/
+
+    /*cancel button to close*/
+
+    for (i=0; i<cancelBtn.length; i++){loginFunc};
