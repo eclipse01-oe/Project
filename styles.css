@@ -349,13 +349,13 @@ body {
   margin-top: 15%;
 }
   
-.signUpPage #signup #form #addForm #submit, .loginPage #Login #form #addForm #submit {
+.signUpPage #signup #form #addForm #submit, .loginPage #Login #form #addForm #submit, .cancel {
   width: 150px;
   height: 30px;
   border-radius: 15px;
   background-color: #00bbf0;
   color: black;
-  padding: 10px 10px 10px auto;
+  padding: 10px 10px 10px auto; 
 }
 
 .signUpPage #signup #form form .input, .loginPage #Login #form form .input{
