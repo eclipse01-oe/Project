@@ -42,7 +42,7 @@ alert("welcome");
 const tapScreen= location.reload();
  
  
-    if(signUpPage.style.display ==='flex' ||  loginPage.style.display === 'flex'){
+    if(event.target== signUpPage || event.target==loginPage){
     Body.addEventListener("click", tapScreen);
     } else{}
  
