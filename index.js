@@ -44,7 +44,7 @@ const tapScreen=  ()=> {
     Body.style.overflow='scroll';
     wholeBody.forEach((element)=>{
         element.style.cssText=`filter: blur(0);
-        overflow: scroll;`;})
+        overflow: scroll;`;});
     };
 
     window.onclick=tapScreen;/*window tap to close*/
