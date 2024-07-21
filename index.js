@@ -49,7 +49,7 @@ const tapScreen=  ()=> {
     };
  
 
-    if(signUpPage.style.displa === flex){
+    if(signUpPage.style.display === flex){
     window.onclick=tapScreen;
     }; else{
 
