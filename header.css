@@ -27,7 +27,7 @@ input {
   content: "🌜";
   height: 25px;
   width: 30px;
-  bottom: 3px;
+  left: 3px;
   top: 3px;
   display: flex;
   justify-content: center;
