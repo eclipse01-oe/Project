@@ -1,5 +1,5 @@
-nav{
-  float: left
+nav{ 
+  display: inline;
 }
 
 .toggle {
