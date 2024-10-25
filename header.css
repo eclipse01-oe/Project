@@ -63,6 +63,13 @@ body {
   margin-right: auto;
 }
 
+.navTitle img {
+  position: absolute;
+  height: 10px;
+  width: 15px;
+  object-fit:contain;
+}
+
 ul{
   list-style-type: none;
 }
