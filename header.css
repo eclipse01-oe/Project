@@ -2,7 +2,7 @@
   position: relative;
   display: inline-block;
   height: 35px;
-  width: 70px;
+  width: 60px;
 }
 
 input {
@@ -44,7 +44,7 @@ input:checked + .slider{
 
 input:checked + .slider::before{
   content: "🌞";
-  transform: translateX(28px);
+  transform: translateX(30px);
   background-color: white;
 }
 
