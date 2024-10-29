@@ -84,6 +84,7 @@ li a{
 /*title*/
 .title{
   background-color: #5c5470;
+  height: 200px;
   mask: radial-gradient(30% 10% at bottom,transparent 100%,black);
 }
 
