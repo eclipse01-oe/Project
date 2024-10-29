@@ -80,3 +80,16 @@ li {
 li a{
   text-decoration: none;
 }
+
+/*title*/
+.title{
+  background-color: #5c5470;
+  mask: radial-gradient(60% 70px at bottom,transparent 100%,black);
+}
+
+.titleName {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+}
