@@ -12,6 +12,7 @@ nav{
   display: inline-block;
   height: 30px;
   width: 60px;
+  left: 80%;
 }
 
 input {
