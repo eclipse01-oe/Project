@@ -188,7 +188,7 @@ body {
  }
 
  .partner_img img {
-  height: 20px;
+  height: auto;
   width: auto;
   padding: auto;
  }
